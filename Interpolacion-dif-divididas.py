@@ -100,7 +100,7 @@ def main():
     print("********* Christian Jair Espejel Cardenas *********")
     print("*********       Metodos Numericos 2       *********")
     print("*********      Diferencias Divididas      *********")
-    print("*********              2403               *********")
+    print("*********              2401               *********")
     print("***************************************************")
 
     useNewTable = True
