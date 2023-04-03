@@ -97,7 +97,10 @@ def main():
     degree = 0
 
     print("***************************************************")
+    print("********* Clemente Galicia Mario Luis     *********")
+    print("********* Cipres Flores Luis Angel        *********")
     print("********* Christian Jair Espejel Cardenas *********")
+    print("********* Miramontes Ordoñez Luis Carlos  *********")
     print("*********       Metodos Numericos 2       *********")
     print("*********      Diferencias Divididas      *********")
     print("*********              2403               *********")
